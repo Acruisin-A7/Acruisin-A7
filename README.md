@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Acruisin-A7
-- 👀 I’m interested in CyberSecurity and Web Development
-- 🌱 I’m currently learning Web Development using Python Django
-- 📫 How to reach me? ig: @arun__a7
- 
+# 👋 Hi, I'm Arun Assadh!
 
-<!---
-Acruisin-A7/Acruisin-A7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final year BSc IT student | 💻 Aspiring Cybersecurity Analyst & Developer  
+🌐 Building secure, data-driven apps | 🤖 Passionate about tech, teamwork & learning
+
+---
+
+## 🚀 Skills & Tools
+- **Languages:** Python, Java, C++, JavaScript
+- **Frameworks:** Django, Flask
+- **Web:** HTML, CSS
+- **Database:** MySQL
+- **Other:** Tableau, Excel, IAM, Razorpay API, Cybersecurity
+
+---
+
+## 🧩 Featured Projects
+### [🐾 Pet Wellness and Nutrition Store](#)
+Django-powered platform for pet product shopping and veterinary consultations.  
+💳 Integrated Razorpay payments and automated notifications.
+
+### [🎓 Forage Job Simulations](#)
+Practical experience in Cybersecurity (Mastercard, Tata), and Data Analytics (Deloitte).  
+✅ IAM, Phishing Analysis, Dashboard creation, Business reports.
+
+---
+
+## 🔗 Connect With Me
+- 📧 arunassadh38@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/Arun-Assadh)
+- 🌐 [GitHub](https://github.com/Acruisin-A7)
+
+
