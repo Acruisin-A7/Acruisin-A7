@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arun Assadh!
+# 👋 Hi, I'm Arun Assadh
 
 🎓 Final year BSc IT student | 💻 Aspiring Cybersecurity Analyst & Developer  
 🌐 Building secure, data-driven apps | 🤖 Passionate about tech, teamwork & learning
