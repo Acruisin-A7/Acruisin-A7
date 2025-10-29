@@ -20,9 +20,12 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 
 ###  Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🐾 **Pet Wellness & Nutrition Store** | A full-stack Django app with Razorpay integration, admin dashboard, veterinarian management, consultation booking and email notifications | Django, MySQL, Razorpay |
+## 🔗 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| [🐾 Pet Wellness & Nutrition Store](https://github.com/Acruisin-A7/Pet-Wellness-and-Nutrition-Store) | A full-stack Django app with Razorpay integration, admin dashboard, veterinarian management, consultation booking, and email notifications. |
+
 
 
 ---
