@@ -20,11 +20,23 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 
 ###  Featured Projects
 
-## 🔗 Featured Projects
+##  Projects
 
-| Project | Description |
-|----------|-------------|
-| [🐾 Pet Wellness & Nutrition Store](https://github.com/Acruisin-A7/Pet-Wellness-and-Nutrition-Store) | A full-stack Django app with Razorpay integration, admin dashboard, veterinarian management, consultation booking, and email notifications. |
+### 🐾 Pet Wellness & Nutrition Store
+**Tech:** Django, MySQL, Razorpay, HTML/CSS  
+- Full-stack web application with user authentication and admin dashboard  
+- Veterinarian consultation booking and product management  
+- Secure Razorpay payment integration and email notifications  
+🔗 https://github.com/Acruisin-A7/Pet-Wellness-and-Nutrition-Store
+
+---
+
+### ☁️ Serverless Image Processing Pipeline (AWS)
+**Tech:** AWS S3, AWS Lambda, IAM, CloudWatch  
+- Event-driven serverless system that automatically generates image thumbnails  
+- S3 ObjectCreated events trigger Lambda for validation and processing  
+- Implemented least-privilege IAM policies and S3 lifecycle rules  
+🔗 https://github.com/Acruisin-A7/aws-serverless-image-processor
 
 
 
