@@ -42,18 +42,17 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 
 ---
 
-###  GitHub Stats
+##  GitHub Activity
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acruisin-A7&show_icons=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Acruisin-A7&show_icons=true&theme=radical" alt="Arun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acruisin-A7&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
-###  Currently Learning
-- AWS Cloud (EC2, IAM, Lambda, RDS, CloudWatch)  
-- API Integration and Automation  
+##  Currently Learning
+- AWS Cloud: S3, Lambda, IAM, EC2, CloudWatch  
+- Serverless architectures and event-driven systems  
+- API integration and automation
+ 
 
 ---
 
