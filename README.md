@@ -39,13 +39,6 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 🔗 https://github.com/Acruisin-A7/aws-serverless-image-processor
 
 
-
----
-
-##  GitHub Activity
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acruisin-A7&show_icons=true&theme=default)
-
-
 ---
 
 ##  Currently Learning
