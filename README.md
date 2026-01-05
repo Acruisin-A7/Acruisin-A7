@@ -38,9 +38,21 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 - Implemented least-privilege IAM policies and S3 lifecycle rules  
 🔗 https://github.com/Acruisin-A7/aws-serverless-image-processor
 
-
 ---
 
+### ☁️ Serverless Notes Application (AWS)  
+**Tech:** AWS S3, API Gateway (HTTP API), AWS Lambda, DynamoDB, IAM, CloudWatch  
+
+- End-to-end serverless CRUD notes application with a static frontend hosted on S3  
+- RESTful API built using API Gateway and a single Python Lambda function  
+- Implemented per-device data isolation using DynamoDB with a Global Secondary Index (GSI)  
+- Enforced least-privilege IAM permissions and explicit CORS handling  
+- Public live demo hosted using S3 static website hosting  
+
+🔗 https://github.com/Acruisin-A7/aws-serverless-notes-app  
+🌐 Live Demo: https://notes-app-frontend7.s3.ap-south-1.amazonaws.com/index.html
+
+---
 ##  Currently Learning
 - AWS Cloud: S3, Lambda, IAM, EC2, CloudWatch  
 - Serverless architectures and event-driven systems  
