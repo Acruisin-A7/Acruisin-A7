@@ -53,8 +53,24 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
 🌐 Live Demo: https://notes-app-frontend7.s3.ap-south-1.amazonaws.com/index.html
 
 ---
+
+### ☁️ Authenticated Personal Cloud Drive (AWS)  
+**Tech:** AWS Lambda, API Gateway (HTTP API), Cognito, S3, DynamoDB, IAM, CloudWatch, HTML/CSS/JS  
+
+- Fully serverless, Google Drive–like personal cloud storage system built on AWS Free Tier  
+- Implemented secure user authentication using **Amazon Cognito** with JWT-protected API routes  
+- Designed a **single Python Lambda backend** handling file uploads, downloads, folder creation, and metadata management  
+- Enabled secure browser-to-S3 transfers using **presigned upload and download URLs** with no public bucket access  
+- Modeled logical folder hierarchy using **DynamoDB as the source of truth** and S3 prefix-based object storage  
+- Enforced strict **per-user data isolation** using Cognito identity (`sub`) and least-privilege IAM policies  
+- Integrated structured logging and monitoring through **Amazon CloudWatch**  
+
+🔗 https://github.com/Acruisin-A7/aws-authenticated-personal-drive
+🌐 Live Demo: https://personal-drive-static-frontend.s3.ap-south-1.amazonaws.com/index.html
+
+---
 ##  Currently Learning
-- AWS Cloud: S3, Lambda, IAM, EC2, CloudWatch  
+- AWS Cloud  
 - Serverless architectures and event-driven systems  
 - API integration and automation
  
@@ -66,7 +82,3 @@ I love working with **Django**, and I'm currently expanding my expertise in **AW
  **LinkedIn:** [linkedin.com/in/arunassadh](https://linkedin.com/in/Arun-Assadh)  
 
 ---
-
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">I love solving real-world problems with clean, maintainable code 🧠💡</p>
-
